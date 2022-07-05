@@ -1,0 +1,6 @@
+this is conflict test file
+C++
+Synopsys
+TestMax
+HSPICE
+PrimeSim
